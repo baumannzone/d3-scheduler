@@ -1,0 +1,9 @@
+ version: "2.0"
+
+ services:
+  myServer:
+    build: .
+    image: myserver
+    ports:
+      - "9090:10010"
+    command: npm run start
