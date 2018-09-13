@@ -33,4 +33,3 @@ node_modules
 config/runtime.yaml
 
 # Firebase, BattleNet, email Config
-cron/config.js
